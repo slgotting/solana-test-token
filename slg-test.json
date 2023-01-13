@@ -2,5 +2,5 @@
     "name": "SLG Test Coin",
     "symbol": "SLGTC",
     "description": "Testing",
-    "image": ""
+    "image": "https://raw.githubusercontent.com/slgotting/solana-test-token/master/mranderson.jpg"
 }
